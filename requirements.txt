@@ -2,3 +2,8 @@ flask
 opencv-python
 numpy
 dlib
+gtts
+pygame
+streamlit
+SpeechRecognition
+googletrans==3.1.0a0
